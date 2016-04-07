@@ -1,0 +1,59 @@
+newmtl no_texture
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+newmtl fff_v_dog_tex_008.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_008.jpg
+newmtl fff_v_dog_tex_007.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_007.jpg
+newmtl fff_v_dog_tex_000.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_000.jpg
+newmtl fff_v_dog_tex_001.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_001.jpg
+newmtl fff_v_dog_tex_004.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_004.jpg
+newmtl fff_v_dog_tex_003.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_003.jpg
+newmtl fff_v_dog_tex_009.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_009.jpg
+newmtl fff_v_dog_tex_006.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_006.jpg
+newmtl fff_v_dog_tex_002.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_002.jpg
+newmtl fff_v_dog_tex_005.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_005.jpg
+newmtl fff_v_dog_tex_010.jpg
+Kd 1.0000 1.0000 1.0000
+d 1.0
+illum 0
+map_Kd dog_tex_010.jpg
